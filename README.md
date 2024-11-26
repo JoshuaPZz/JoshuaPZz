@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaPZZz&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaPZz&theme=dark&hide_border=true"/>
 </p>
 
 ### 💰 &nbsp;Support My Work
