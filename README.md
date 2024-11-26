@@ -83,7 +83,5 @@
 
 ### 🐍 &nbsp;That's How Commits move ...
 
-<div align="center">
-  <a href="https://github.com/JoshuaPZz/">
  ![snake gif](https://github.com/JoshuaPZz/JoshuaPZz/blob/output/github-contribution-grid-snake.gif)
-</div>
+
