@@ -83,6 +83,6 @@
 
 ### 🐍 &nbsp;That's How Commits move ...
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B0d252Mjk1bTNrMmpscnpkbGx2bGs5cTduc2h1cmlscThkdTJvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" align="left" alt="this slowpoke moves"  width="400" alt="404 image"/>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWs1bGVxdmdhYnlhdjIxYjV5djFxcW16bHA2dzQ5Mmo0dHh4Y2poYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUp9Nb1czvHMY/giphy.gif" align="right" alt="this slowpoke moves"  width="500" alt="404 image"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B0d252Mjk1bTNrMmpscnpkbGx2bGs5cTduc2h1cmlscThkdTJvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" align="left" alt="this slowpoke moves"  width="300" alt="404 image"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWs1bGVxdmdhYnlhdjIxYjV5djFxcW16bHA2dzQ5Mmo0dHh4Y2poYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUp9Nb1czvHMY/giphy.gif" align="right" alt="this slowpoke moves"  width="400" alt="404 image"/>
 
