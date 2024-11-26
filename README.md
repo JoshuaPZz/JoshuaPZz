@@ -83,5 +83,5 @@
 
 ### 🐍 &nbsp;That's How Commits move ...
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/ua7vVw9awZKWwLSYpW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-computer-developer-binary-ua7vVw9awZKWwLSYpW">via GIPHY</a></p>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B0d252Mjk1bTNrMmpscnpkbGx2bGs5cTduc2h1cmlscThkdTJvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" alt="this slowpoke moves"  width="600" alt="404 image"/>
 
