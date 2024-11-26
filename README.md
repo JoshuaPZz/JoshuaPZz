@@ -68,11 +68,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaPZZz&theme=dark&hide_border=true"/>
 </p>
 
-### 🎖 &nbsp;My Badges 
-
-[![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
-
-
 ### 💰 &nbsp;Support My Work
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/joshuapz
 ) 
@@ -81,9 +76,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/joshua-prieto-zambrano-1b68592aa/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:joshuaprieto8@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/jpz.pdf/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/joshua-prieto-zambrano-1b68592aa/"><img src="https://img.shields.io/badge/-Joshua%20Prieto-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:joshuaprieto8@gmail.com"><img src="https://img.shields.io/badge/-Joshuaprieto8-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/jpz.pdf/"><img src="https://img.shields.io/badge/-Jpz.pdf-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ### 🐍 &nbsp;That's How Commits move ...
