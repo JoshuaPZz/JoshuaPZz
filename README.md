@@ -1,4 +1,4 @@
-![Joshua Prieto Banner](https://github.com/JoshuaPZz/JoshuaPZz/blob/main/Joshua%20Prieto%20Zambrano.png)
+![Joshua Prieto Banner](https://github.com/JoshuaPZz/JoshuaPZz/blob/main/Joshua%20Prieto%20Zambrano%20(4).png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Joshua Prieto Zambrano</h2>
 
