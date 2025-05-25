@@ -15,6 +15,7 @@
 ✉️ &nbsp;You can shoot me an email at joshuaprieto8@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1EvT5s1eVgTpQk9Ymck2U_jsrFwYsgEuR/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!.\
 🥸 &nbsp;Please have a look at my [Certificates](https://drive.google.com/drive/folders/1k1c8jK7Axvet7V5YBHrQ0gdFBG8nv_OP?usp=sharing) so you can get to know my learnings and knowledge.
+🌐 &nbsp;Please have a look at my [Portafolio](https://joshuapzz.github.io) so you can get to know more information about me.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
