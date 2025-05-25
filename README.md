@@ -52,6 +52,7 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
 ![AWS Service](https://img.shields.io/badge/Amazon_Web_Services-black?style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=white&labelColor=222222&color=222222)&nbsp;
 ![AWS Lambdas](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Lambda&color=222222&logo=AWS+Lambda&logoColor=FF9900&label=)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
