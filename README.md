@@ -13,7 +13,7 @@
 ✍️ &nbsp;In my free time, I go to the gym, read philosophy, and study the areas I want to focus on.\
 💬 &nbsp;I am open to any kind of human learning. I currently volunteer in my country and participate in leadership courses or facilitation roles, such as being an orientation leader in my faculty.\
 ✉️ &nbsp;You can shoot me an email at joshuaprieto8@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Profesional Resume](https://docs.google.com/document/d/1JyD2lXlZ1OXu44PoZSREjrXG32YfMb-U/edit?usp=sharing&ouid=111182165659924706069&rtpof=true&sd=true) for more details about me. I'm open to feedback and suggestions!.\
+📄 &nbsp;Please have a look at my [Profesional Resume](https://docs.google.com/document/d/1fRStUbuU07Put-BGR7zmeH0ikR-wOfhi/edit?usp=sharing&ouid=111182165659924706069&rtpof=true&sd=true) for more details about me. I'm open to feedback and suggestions!.\
 🥸 &nbsp;Please have a look at my [Certificates](https://drive.google.com/drive/folders/1k1c8jK7Axvet7V5YBHrQ0gdFBG8nv_OP?usp=sharing) so you can get to know my learnings and knowledge.\
 🌐 &nbsp;Please have a look at my [Portafolio](https://joshuapzz.github.io) so you can get more information about me.
 
