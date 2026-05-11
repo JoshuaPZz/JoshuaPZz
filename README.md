@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am currently working as a backend developer at a startup called Bucks, focused on using AI for financial processes.\
+👨‍💻 &nbsp;I am currently working as a Full Stack Developer at a startup called Vexstack, focused on building software solutions across multiple projects.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I am currently studying Systems Engineering/Computer Science at Pontificia Universidad Javeriana. .\
 🌱 &nbsp;I am on track to learn more about software development, cloud microservices, and cybersecurity.\
