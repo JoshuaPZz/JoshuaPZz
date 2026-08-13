@@ -1,93 +1,95 @@
 ![Joshua Prieto Banner](https://github.com/JoshuaPZz/JoshuaPZz/blob/main/Joshua%20Prieto%20Zambrano%20(5).png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Joshua Prieto Zambrano</h2>
+<h1 align="center">
+  Hey there! I'm Joshua Prieto Zambrano <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
+<h3 align="center">Backend Software Engineer | Node.js / TypeScript | AWS Serverless | Microservicios</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/joshua-prieto-zambrano-1b68592aa"><img src="https://img.shields.io/badge/-Joshua%20Prieto-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:joshuaprieto8@gmail.com"><img src="https://img.shields.io/badge/-joshuaprieto8@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://joshuapzz.github.io"><img src="https://img.shields.io/badge/-Portfolio-4f46e5?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://drive.google.com/file/d/1j-KJW3n0Ad0_HO7Uj31oRPFGNwkKUIjV/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-10b981?style=for-the-badge&logo=Google-Drive&logoColor=white" alt="Resume"/></a>
+</p>
+
+---
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am currently working as a Full Stack Developer at a startup called Vexstack, focused on building software solutions across multiple projects.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I am currently studying Systems Engineering/Computer Science at Pontificia Universidad Javeriana. .\
-🌱 &nbsp;I am on track to learn more about software development, cloud microservices, and cybersecurity.\
-✍️ &nbsp;In my free time, I go to the gym, read philosophy, and study the areas I want to focus on.\
-💬 &nbsp;I am open to any kind of human learning. I currently volunteer in my country and participate in leadership courses or facilitation roles, such as being an orientation leader in my faculty.\
-✉️ &nbsp;You can shoot me an email at joshuaprieto8@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Profesional Resume](https://docs.google.com/document/d/1fRStUbuU07Put-BGR7zmeH0ikR-wOfhi/edit?usp=sharing&ouid=111182165659924706069&rtpof=true&sd=true) for more details about me. I'm open to feedback and suggestions!.\
-🥸 &nbsp;Please have a look at my [Certificates](https://drive.google.com/drive/folders/1k1c8jK7Axvet7V5YBHrQ0gdFBG8nv_OP?usp=sharing) so you can get to know my learnings and knowledge.\
-🌐 &nbsp;Please have a look at my [Portafolio](https://joshuapzz.github.io) so you can get more information about me.
+I'm a **Systems Engineer** (final year, GPA 4.1/5.0) specializing in building highly scalable, modular, and event-driven backend architectures. I focus on writing clean, secure code (SOLID, OWASP) and optimizing cloud infrastructure.
 
+- 🚀 Currently architecting business logic and RESTful APIs as a **Junior Full Stack Developer (Backend Focus)** at **Vexstack**.
+- ☁️ Experienced in deploying **AWS Serverless** applications (Lambda, API Gateway, Step Functions, EventBridge, App Runner) reducing operational costs and improving response times.
+- 💡 Passionate about microservices, system design, and integrating modern databases like **PostgreSQL, Supabase, MongoDB**, and vector databases like **Pinecone**.
+- 🎓 Proud student at Pontificia Universidad Javeriana, where I've also served as an Academic Monitor for Networks and Communications, and Webmaster for the IEEE Student Branch.
+- 💬 Always open to discussing software architecture, existentialist philosophy, fitness, or Souls-like games!
+- 📄 Check out my updated [Professional Resume](https://drive.google.com/file/d/1j-KJW3n0Ad0_HO7Uj31oRPFGNwkKUIjV/view?usp=sharing) or visit my [Interactive Portfolio](https://joshuapzz.github.io) for more details.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+---
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack & Tools
 
+<details open>
+<summary><b>Languages & Core Backend</b></summary>
+<br>
+  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+</details>
 
-### 🗃 &nbsp;Databases
+<details open>
+<summary><b>Cloud, DevOps & Architecture</b></summary>
+<br>
 
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
-
-### 🧰 &nbsp;Version Controll & Tools 
-
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
-![AWS Service](https://img.shields.io/badge/Amazon_Web_Services-black?style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=white&labelColor=222222&color=222222)&nbsp;
-![AWS Lambdas](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Lambda&color=222222&logo=AWS+Lambda&logoColor=FF9900&label=)&nbsp;
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)&nbsp;
+</details>
 
+<details open>
+<summary><b>Databases</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)&nbsp;
+</details>
+
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/JoshuaPZz">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoshuaPZz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/JoshuaPZz">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoshuaPZz&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoshuaPZz&show_icons=true&theme=nord&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoshuaPZz&layout=compact&langs_count=6&theme=nord&bg_color=0D1117&text_color=c9d1d9&title_color=58a6ff"/>
 </p>
-
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaPZz&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaPZz&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9"/>
 </p>
 
-### 💰 &nbsp;Support My Work
+---
+
+### 🤝🏻 &nbsp;Support My Work & Connect
+
+If my projects or articles have helped you, consider treating me to a coffee! ☕
+
 <a href="https://buymeacoffee.com/JoshuaPZ" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
 </a>
 
-
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/joshua-prieto-zambrano-1b68592aa/"><img src="https://img.shields.io/badge/-Joshua%20Prieto-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:joshuaprieto8@gmail.com"><img src="https://img.shields.io/badge/-Joshuaprieto8-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/jpz.pdf/"><img src="https://img.shields.io/badge/-Jpz.pdf-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
-
-### 🐍 &nbsp;That's How Commits move ...
-
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B0d252Mjk1bTNrMmpscnpkbGx2bGs5cTduc2h1cmlscThkdTJvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" align="left" alt="this slowpoke moves"  width="300" alt="404 image"/>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWs1bGVxdmdhYnlhdjIxYjV5djFxcW16bHA2dzQ5Mmo0dHh4Y2poYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUp9Nb1czvHMY/giphy.gif" align="right" alt="this slowpoke moves"  width="400" alt="404 image"/>
-
+<br><br>
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B0d252Mjk1bTNrMmpscnpkbGx2bGs5cTduc2h1cmlscThkdTJvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" alt="slowpoke moves" width="250" />
+</div>
