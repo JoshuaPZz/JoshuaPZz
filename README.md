@@ -38,7 +38,7 @@ I'm a **Systems Engineer** (final year, GPA 4.1/5.0) specializing in building hi
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JoshuaPZz&theme=nord&no-frame=true&no-bg=true&margin-w=15" alt="JoshuaPZz Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=JoshuaPZz&theme=nord" alt="JoshuaPZz Trophies" />
   </a>
 </p>
 
