@@ -1,5 +1,11 @@
 ![Joshua Prieto Banner](https://github.com/JoshuaPZz/JoshuaPZz/blob/main/Joshua%20Prieto%20Zambrano%20(5).png)
 
+<div align="center">
+  <a href="https://komarev.com/ghpvc/?username=JoshuaPZz&color=blueviolet">
+    <img src="https://komarev.com/ghpvc/?username=JoshuaPZz&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+</div>
+
 <h1 align="center">
   Hey there! I'm Joshua Prieto Zambrano <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
@@ -25,6 +31,16 @@ I'm a **Systems Engineer** (final year, GPA 4.1/5.0) specializing in building hi
 - 🎓 Proud student at Pontificia Universidad Javeriana, where I've also served as an Academic Monitor for Networks and Communications, and Webmaster for the IEEE Student Branch.
 - 💬 Always open to discussing software architecture, existentialist philosophy, fitness, or Souls-like games!
 - 📄 Check out my updated [Professional Resume](https://drive.google.com/file/d/1j-KJW3n0Ad0_HO7Uj31oRPFGNwkKUIjV/view?usp=sharing) or visit my [Interactive Portfolio](https://joshuapzz.github.io) for more details.
+
+---
+
+### 🏆 &nbsp;GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JoshuaPZz&theme=nord&no-frame=true&no-bg=true&margin-w=15" alt="JoshuaPZz Trophies" />
+  </a>
+</p>
 
 ---
 
@@ -117,6 +133,18 @@ I'm a **Systems Engineer** (final year, GPA 4.1/5.0) specializing in building hi
 
 ---
 
+### 🐍 &nbsp;Contribution Grid Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoshuaPZz/JoshuaPZz/output/dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoshuaPZz/JoshuaPZz/output/dist/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoshuaPZz/JoshuaPZz/output/dist/github-snake.svg">
+  </picture>
+</p>
+
+---
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -125,6 +153,14 @@ I'm a **Systems Engineer** (final year, GPA 4.1/5.0) specializing in building hi
 </p>
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaPZz&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9"/>
+</p>
+
+---
+
+### 😄 &nbsp;Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=nord&hideBorder=true" alt="Jokes Card" />
 </p>
 
 ---
