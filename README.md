@@ -10,7 +10,11 @@
   Hey there! I'm Joshua Prieto Zambrano <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
-<h3 align="center">Backend Software Engineer | Node.js / TypeScript | AWS Serverless | Microservicios</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Software+Engineer;AWS+Serverless+Expert;Microservices+Architect;Building+scalable+systems" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/joshua-prieto-zambrano-1b68592aa"><img src="https://img.shields.io/badge/-Joshua%20Prieto-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -32,15 +36,6 @@ I'm a **Systems Engineer** (final year, GPA 4.1/5.0) specializing in building hi
 - 💬 Always open to discussing software architecture, existentialist philosophy, fitness, or Souls-like games!
 - 📄 Check out my updated [Professional Resume](https://drive.google.com/file/d/1j-KJW3n0Ad0_HO7Uj31oRPFGNwkKUIjV/view?usp=sharing) or visit my [Interactive Portfolio](https://joshuapzz.github.io) for more details.
 
----
-
-### 🏆 &nbsp;GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JoshuaPZz&theme=nord" alt="JoshuaPZz Trophies" />
-  </a>
-</p>
 
 ---
 
