@@ -39,6 +39,77 @@ I'm a **Systems Engineer** (final year, GPA 4.1/5.0) specializing in building hi
 
 ---
 
+### 🚀 &nbsp;Featured Projects / Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 <a href="https://github.com/PurosBrothers/Kit-Pagos-Colombia---Tesis">Kit Pagos Colombia — Tesis de Grado</a></h3>
+      <p><b>SDK Unificado y Simulador de Pasarelas de Pago</b></p>
+      <p>Librería cliente y API de simulación bajo <b>Arquitectura Hexagonal (Puertos y Adaptadores)</b> y DDD que unifica la integración con pasarelas de pago colombianas (Wompi, PayU, Mercado Pago, Kushki).</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Hexagonal_Arch-6366F1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏗️ <a href="https://github.com/PurosBrothers/Proyecto-Microservicios">Marketplace Microservices Platform</a></h3>
+      <p><b>Arquitectura de Microservicios Escalable</b></p>
+      <p>Plataforma distribuida y modular para servicios turísticos con Spring Cloud Gateway, Eureka Service Discovery, mensajería asíncrona con RabbitMQ, Keycloak OAuth2/OIDC, PostgreSQL y GraphQL.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Keycloak-4E9FD1?style=flat-square&logo=keycloak&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗺️ <a href="https://github.com/JoshuaPZz/mapa-solidario">Mapa Solidario — Geoespacial Realtime</a></h3>
+      <p><b>Mapeo Comunitario y Coordinación de Ayuda en Vivo</b></p>
+      <p>Plataforma geoespacial colaborativa para la respuesta rápida en emergencias. Mapeo interactivo con Leaflet/OSM y sincronización en tiempo real vía WebSockets con Supabase PostgreSQL Realtime.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Supabase_Realtime-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/JoshuaPZz/cloud-function-notifications-app">Serverless Push Notifications Microservice</a></h3>
+      <p><b>Microservicio Serverless de Notificaciones Push</b></p>
+      <p>Sistema event-driven de alto rendimiento para el despacho batch y concurrente de notificaciones push móviles/web mediante Firebase Cloud Functions, FCM y Firebase Realtime Database.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Firebase_Functions-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🔷 <a href="https://github.com/JoshuaPZz/Proyecto_Estructuras">Motor de Modelado 3D & Estructuras de Datos Avanzadas</a></h3>
+      <p><b>Particionamiento Espacial (KD-Tree) y Grafos de Mallas Poligonales</b></p>
+      <p>Motor en C++ para análisis geométrico 3D. Implementa <b>Árboles KD (k-d tree 3D)</b> para Nearest Neighbor Search en $\mathcal{O}(\log n)$, <b>Grafos no dirigidos ponderados</b> con algoritmo de <b>Dijkstra</b> para rutas geodésicas mínimas y cálculo de cajas envolventes (AABB) mediante un CLI interactivo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B_11%2F17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white"/>
+        <img src="https://img.shields.io/badge/KD--Tree_3D-8B5CF6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Dijkstra_Algorithm-10B981?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Geometric_Modeling-06B6D4?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🛠 &nbsp;Tech Stack & Tools
 
 <details open>
