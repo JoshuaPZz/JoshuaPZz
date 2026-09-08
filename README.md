@@ -30,7 +30,7 @@
 I'm a **Systems Engineer** (final year, GPA 4.1/5.0) specializing in building highly scalable, modular, and event-driven backend architectures. I focus on writing clean, secure code (SOLID, OWASP) and optimizing cloud infrastructure.
 
 - 🚀 Currently architecting business logic and RESTful APIs as a **Junior Full Stack Developer (Backend Focus)** at **Vexstack**.
-- ☁️ Experienced in deploying **AWS Serverless** applications (Lambda, API Gateway, Step Functions, EventBridge, App Runner) reducing operational costs and improving response times.
+- ☁️ Experienced in deploying **AWS Serverless** applications (Lambda, API Gateway, Step Functions, EventBridge, App Runner) and certified in **Oracle Cloud Infrastructure (OCI)**, driving cost-effective cloud architectures.
 - 💡 Passionate about microservices, system design, and integrating modern databases like **PostgreSQL, Supabase, MongoDB**, and vector databases like **Pinecone**.
 - 🎓 Proud student at Pontificia Universidad Javeriana, where I've also served as an Academic Monitor for Networks and Communications, and Webmaster for the IEEE Student Branch.
 - 💬 Always open to discussing software architecture, existentialist philosophy, fitness, or Souls-like games!
@@ -144,6 +144,7 @@ I'm a **Systems Engineer** (final year, GPA 4.1/5.0) specializing in building hi
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)&nbsp;
 ![AWS API Gateway](https://img.shields.io/badge/AWS_API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![AWS App Runner](https://img.shields.io/badge/AWS_App_Runner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)&nbsp;
