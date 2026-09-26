@@ -20,7 +20,7 @@
   <a href="https://linkedin.com/in/joshua-prieto-zambrano-1b68592aa"><img src="https://img.shields.io/badge/-Joshua%20Prieto-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:joshuaprieto8@gmail.com"><img src="https://img.shields.io/badge/-joshuaprieto8@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
   <a href="https://joshuapzz.github.io"><img src="https://img.shields.io/badge/-Portfolio-4f46e5?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://drive.google.com/file/d/1j-KJW3n0Ad0_HO7Uj31oRPFGNwkKUIjV/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-10b981?style=for-the-badge&logo=Google-Drive&logoColor=white" alt="Resume"/></a>
+  <a href="https://drive.google.com/file/d/17UsOvqie27YbNKaXLCdI5kHjGACZ6gJ3/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-10b981?style=for-the-badge&logo=Google-Drive&logoColor=white" alt="Resume"/></a>
 </p>
 
 ---
@@ -30,11 +30,11 @@
 I'm a **Systems Engineer** (final year, GPA 4.1/5.0) specializing in building highly scalable, modular, and event-driven backend architectures. I focus on writing clean, secure code (SOLID, OWASP) and optimizing cloud infrastructure.
 
 - 🚀 Currently architecting business logic and RESTful APIs as a **Junior Full Stack Developer (Backend Focus)** at **Vexstack**.
-- ☁️ Experienced in deploying **AWS Serverless** applications (Lambda, API Gateway, Step Functions, EventBridge, App Runner) and certified in **Oracle Cloud Infrastructure (OCI)**, driving cost-effective cloud architectures.
-- 💡 Passionate about microservices, system design, and integrating modern databases like **PostgreSQL, Supabase, MongoDB**, and vector databases like **Pinecone**.
+- ☁️ Experienced in deploying **AWS Serverless** applications (Lambda, API Gateway, Step Functions, EventBridge, App Runner), officially certified as **AWS Certified AI Practitioner (AIF-C01)** and **Oracle Cloud Infrastructure (OCI) Associate**.
+- 💡 Passionate about generative AI, microservices, system design, and integrating modern databases like **PostgreSQL, Supabase, MongoDB**, and vector databases like **Pinecone**.
 - 🎓 Proud student at Pontificia Universidad Javeriana, where I've also served as an Academic Monitor for Networks and Communications, and Webmaster for the IEEE Student Branch.
 - 💬 Always open to discussing software architecture, existentialist philosophy, fitness, or Souls-like games!
-- 📄 Check out my updated [Professional Resume](https://drive.google.com/file/d/1j-KJW3n0Ad0_HO7Uj31oRPFGNwkKUIjV/view?usp=sharing) or visit my [Interactive Portfolio](https://joshuapzz.github.io) for more details.
+- 📄 Check out my updated [Professional Resume](https://drive.google.com/file/d/17UsOvqie27YbNKaXLCdI5kHjGACZ6gJ3/view?usp=sharing) or visit my [Interactive Portfolio](https://joshuapzz.github.io) for more details.
 
 
 ---
@@ -141,6 +141,7 @@ I'm a **Systems Engineer** (final year, GPA 4.1/5.0) specializing in building hi
 <br>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)&nbsp;
 ![AWS API Gateway](https://img.shields.io/badge/AWS_API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![AWS App Runner](https://img.shields.io/badge/AWS_App_Runner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
