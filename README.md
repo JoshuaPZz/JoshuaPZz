@@ -20,7 +20,7 @@
   <a href="https://linkedin.com/in/joshua-prieto-zambrano-1b68592aa"><img src="https://img.shields.io/badge/-Joshua%20Prieto-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:joshuaprieto8@gmail.com"><img src="https://img.shields.io/badge/-joshuaprieto8@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
   <a href="https://joshuapzz.github.io"><img src="https://img.shields.io/badge/-Portfolio-4f46e5?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://drive.google.com/file/d/17UsOvqie27YbNKaXLCdI5kHjGACZ6gJ3/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-10b981?style=for-the-badge&logo=Google-Drive&logoColor=white" alt="Resume"/></a>
+  <a href="https://drive.google.com/file/d/1SggJjV3bSk6z35xT0TrYvv4lBPlLBejT/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-10b981?style=for-the-badge&logo=Google-Drive&logoColor=white" alt="Resume"/></a>
 </p>
 
 ---
@@ -29,12 +29,12 @@
 
 I'm a **Systems Engineer** (final year, GPA 4.1/5.0) specializing in building highly scalable, modular, and event-driven backend architectures. I focus on writing clean, secure code (SOLID, OWASP) and optimizing cloud infrastructure.
 
-- 🚀 Currently architecting business logic and RESTful APIs as a **Junior Full Stack Developer (Backend Focus)** at **Vexstack**.
+- 🚀 Currently architecting business logic and RESTful APIs powering **+5 interactive financial dashboards** as a **Junior Full Stack Developer (Backend Focus)** at **Vexstack**.
 - ☁️ Experienced in deploying **AWS Serverless** applications (Lambda, API Gateway, Step Functions, EventBridge, App Runner), officially certified as **AWS Certified AI Practitioner (AIF-C01)** and **Oracle Cloud Infrastructure (OCI) Associate**.
 - 💡 Passionate about generative AI, microservices, system design, and integrating modern databases like **PostgreSQL, Supabase, MongoDB**, and vector databases like **Pinecone**.
 - 🎓 Proud student at Pontificia Universidad Javeriana, where I've also served as an Academic Monitor for Networks and Communications, and Webmaster for the IEEE Student Branch.
 - 💬 Always open to discussing software architecture, existentialist philosophy, fitness, or Souls-like games!
-- 📄 Check out my updated [Professional Resume](https://drive.google.com/file/d/17UsOvqie27YbNKaXLCdI5kHjGACZ6gJ3/view?usp=sharing) or visit my [Interactive Portfolio](https://joshuapzz.github.io) for more details.
+- 📄 Check out my updated [Professional Resume](https://drive.google.com/file/d/1SggJjV3bSk6z35xT0TrYvv4lBPlLBejT/view?usp=sharing) or visit my [Interactive Portfolio](https://joshuapzz.github.io) for more details.
 
 
 ---
@@ -46,12 +46,13 @@ I'm a **Systems Engineer** (final year, GPA 4.1/5.0) specializing in building hi
     <td width="50%" valign="top">
       <h3>💳 <a href="https://github.com/PurosBrothers/Kit-Pagos-Colombia---Tesis">Kit Pagos Colombia — Tesis de Grado</a></h3>
       <p><b>SDK Unificado y Simulador de Pasarelas de Pago</b></p>
-      <p>Librería cliente y API de simulación bajo <b>Arquitectura Hexagonal (Puertos y Adaptadores)</b> y DDD que unifica la integración con pasarelas de pago colombianas (Wompi, PayU, Mercado Pago, Kushki).</p>
+      <p>Librería cliente y API de simulación documentadas con <b>OpenAPI/Swagger</b> bajo <b>Arquitectura Hexagonal (Puertos y Adaptadores)</b> y DDD que unifica la integración con pasarelas de pago colombianas (Wompi, PayU, Mercado Pago, Kushki).</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Hexagonal_Arch-6366F1?style=flat-square"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAPI_%2F_Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -133,7 +134,9 @@ I'm a **Systems Engineer** (final year, GPA 4.1/5.0) specializing in building hi
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)&nbsp;
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![OpenAPI / Swagger](https://img.shields.io/badge/OpenAPI_%2F_Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 </details>
 
 <details open>
